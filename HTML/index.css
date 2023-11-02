@@ -1,0 +1,36 @@
+:root{
+    --bg: #000000;
+}
+
+input{
+    background-color: #808080;
+    border-radius: 10px;
+    border: 2px groove white;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#body{
+    background-color:  #282828;
+    font: normal 19px italic;
+}
+
+.container{
+    background-color: #000000;
+    text-align: center;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 20px;
+    width: 215px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 170px;
+}
+
+#title{
+    color: #8e118e;
+}
+
+.form-group{
+    color: #f825f8;
+}
